@@ -1,3 +1,5 @@
+Arduino - Sistema de Aproximação
+
 Um projeto simples feito com Arduino que usa um sensor de proximidade para acionar um alarme quando um objeto é detectado.
 
 -- Componentes necessários
